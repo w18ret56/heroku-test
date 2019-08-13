@@ -1,3 +1,3 @@
 <?php
-print "XD";
+phpinfo();
 ?>
